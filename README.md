@@ -1,16 +1,18 @@
-## Hi there 👋
+# DistantOS
+### YourOS,YourWAY
 
-<!--
-**Enterprise-DistantOS/Enterprise-DistantOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DistantOS is a customizable Linux distribution built on Ubuntu, designed to adapt to the user's needs.
 
-Here are some ideas to get you started:
+## 🚀 Features
+- Custom ISO built with Cubic
+- Based on Zorin OS (Ubuntu)
+- User-focused design philosophy
+- Lightweight and flexible
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Goals
+- Give users full control over their system
+- Provide a clean, adaptable experience
+- Bridge beginners and power users
+
+## 📦 Status
+🚧 In active development
