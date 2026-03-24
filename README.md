@@ -1,9 +1,11 @@
 ### Welcome to DistantOS - #YourOS,YourWAY
 # Hi, Hello, Hola, Bonjour, Hallo, Hei...
-Welcome to DistantOS, an OS that listens to you, not a placeholder or on it's own accord.
+Hey! It's nice to know you found us! Welcome to <ins>DistantOS</ins>, an operating system that listens to you... not just go with it's own accord.
 
-## What is DistantOS?
-DistantOS is an <ins>**Operating System (OS)**</ins> that listens to your instruction. Lots of OSes give you customisation, but it may be minimal or locked under a payment gate.
+### I'm confused... What is <ins>DistantOS</ins>?
+Let's put this in basic terms:
 
-## Need a custom appearance?
-With DistantOS... you can. Choose an appearance that suits you and change it anytime.
+DistantOS is an **operating system** designed to fit your needs. Unlike other OSes, DistantOS actually listens to the designs and features <ins>YOU</ins> want.
+
+## Any other questions?
+We can help you if you do have any others. Just use this link: https://tally.so/r/kd56qZ
